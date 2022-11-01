@@ -3,7 +3,7 @@
 My name is Hilda Madhavan. You can call me Hilda. I am working as a Data Analyst from India passionate about ML and AI.
 
 ## 👀 I’m interested in 
-Python | SQL | Databricks | Tableau | Power BI | Excel
+Python | SQL | Alteryx | KNIME | Databricks | Tableau | Power BI | Excel
 
 ## 🌱 I’m currently learning
 Text Processing | Dijango
